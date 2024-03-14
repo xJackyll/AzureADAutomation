@@ -1,5 +1,5 @@
 ﻿# Connecting to AZ AD
-Connect-AzureAD -TenantId "dce2317a-3c7a-47bd-9bfc-460ef7e7ff3d" | Out-Null
+Connect-AzureAD -TenantId "your tenant ID" | Out-Null
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 # Defining variables
