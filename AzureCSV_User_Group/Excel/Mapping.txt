@@ -1,0 +1,8 @@
+Amministrazione = amm
+Magazzino = mag
+HR_Group = hr
+Marketing = mar
+
+
+
+
