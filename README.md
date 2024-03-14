@@ -3,6 +3,7 @@ This PowerShell script is designed to automate various management tasks related 
 ### Customization 🔄
 - **Dictionary** (`$dict`): Customize this dictionary with your own group attributes and their corresponding values.
 - **Debug Mode** (`$Enable_Debug`): Enable or disable debug mode to control logging verbosity.
+- **CSV** : Edit the CSV as you wish. I've put some users and groups just for testing
 
 ### Logging 📋
 The script logs various messages to a log file (`Log_Powershell.txt`) located in the `Logs` folder. It provides information, warnings, errors, and debug messages for better understanding and troubleshooting.
